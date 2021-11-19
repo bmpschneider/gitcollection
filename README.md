@@ -4,7 +4,7 @@
 
 ## 📗 About
 
-**Git Collection** is an app to explore existing repositories on Github.
+**Git Collection** is an app to explore existing repositories on Github
 
 ## 🧑‍💻 Technologies
 
